@@ -15,7 +15,7 @@ For more information, see [.NET MAUI Blazor Hybrid and Web App with ASP.NET Core
 ## Steps to run the sample
 
 1. Clone this repository or download a ZIP archive of the repository. For more information, see [How to download a sample](https://learn.microsoft.com/aspnet/core/introduction-to-aspnet-core#how-to-download-a-sample).
-1. Make sure you have [.NET 9 and the MAUI workload installed](https://learn.microsoft.com/dotnet/maui/get-started/installation).
+1. Make sure you have [.NET 10 and the MAUI workload installed](https://learn.microsoft.com/dotnet/maui/get-started/installation).
 1. Open the solution in Visual Studio 2022 or VS Code with the .NET MAUI extension installed.
 1. Set the `MauiBlazorWeb` MAUI project as the startup project. In Visual Studio, right-click the project and select **Set as Startup Project**.
 1. Start the `MauiBlazorWeb.Web` project without debugging. In Visual Studio, right-click on the project and select **Debug** > **Start without Debugging**.
